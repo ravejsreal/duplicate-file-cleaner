@@ -61,4 +61,3 @@ python main.py
 ## license
 
 free to use, modify, and share. use responsibly.
-"# file-cleaner" 
