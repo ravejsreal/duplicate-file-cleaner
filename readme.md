@@ -1,4 +1,4 @@
-# 🗂️ file cleaner
+# 🗂️ duplicate file cleaner
 
 a simple python app to find and remove duplicate files in a folder. fast, safe, and easy to use. duplicates are detected based on **file size + content hash**. always double-check files before deleting.
 
